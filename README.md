@@ -1,8 +1,10 @@
 ### Hi there 👋
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=whtower&show_icons=true&theme=tokyonight" /> </div>
+<div display="flex">
+  <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=whtower&show_icons=true&theme=tokyonight" /> </div>
+  <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=whtower&theme=xcode" /> </div>
+</div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtower" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=whtower" /> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=whtower&theme=xcode" /> </div>
 
 <!--
 **whtower/whtower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
